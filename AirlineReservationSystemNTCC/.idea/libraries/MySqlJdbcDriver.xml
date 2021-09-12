@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MySqlJdbcDriver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/MySqlJdbcDriver.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../Downloads/MySqlJdbcDriver.zip!/" recursive="false" />
+  </library>
+</component>
